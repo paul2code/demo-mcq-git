@@ -4,3 +4,9 @@ B) Amoxicillin
 C) Lorazepam
 D) Buproprion
 E) Thyroid hormone
+
+Why is vitamin B6 usually prescribed with isoniazid (INH)?
+A) It acts as a cofactor for INH
+B) It prevents some adverse effects of INH therapy
+C) Like INH, it has tuberculostic activity
+D) It prevents metabolism of INH
