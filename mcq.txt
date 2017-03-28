@@ -17,3 +17,10 @@ A) It acts as a cofactor for INH
 B) It prevents some adverse effects of INH therapy
 C) Like INH, it has tuberculostic activity
 D) It prevents metabolism of INH
+
+The agent known to enhance the toxicity of digoxin is:
+A) Potassium
+B) Enalapril
+C) Vitamin D
+D) Quinidine
+E) Atenolol
