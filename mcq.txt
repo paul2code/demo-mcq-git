@@ -11,3 +11,9 @@ B) Amoxicillin
 C) Sulfamethoxazole-trimethoprim
 D) Norfloxacin
 E) Tetracycline
+
+Why is vitamin B6 usually prescribed with isoniazid (INH)?
+A) It acts as a cofactor for INH
+B) It prevents some adverse effects of INH therapy
+C) Like INH, it has tuberculostic activity
+D) It prevents metabolism of INH
