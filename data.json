@@ -1,0 +1,11 @@
+{
+	"full_name" : "Abialbon",
+	"title" : "Founder",
+	"links" : [
+			{ "blog"     : "http://abialbonpaul.com" },
+			{ "facebook" : "http://facebook.com/abialbon.paul" },
+			{ "podcast"  : "http://feeds.feedburner.com/abialbon" },
+			{ "twitter"  : "http://twitter.com/abialbonpaul" },
+			{ "youtube"  : "http://www.youtube.com/paulnotes" }
+		]
+}
